@@ -1,10 +1,3 @@
-# ============================================================
-#  House Price Prediction — End-to-End ML Project
-#  Dataset  : California Housing (built into scikit-learn)
-#  Author   : Ishika
-#  Tech     : Python, Pandas, Scikit-learn, Matplotlib, Seaborn
-# ============================================================
-
 import os
 import pandas as pd
 import numpy as np
