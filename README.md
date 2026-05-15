@@ -62,6 +62,9 @@ streamlit run app.py
 
 ---
 
+## 🌐 Live Demo
+🔗 [Click here to try the app] https://house-price-prediction-mb56bshqqzcjy6xcch9nc4.streamlit.app/
+
 ## 👩‍💻 Author
 
 **Ishika** — Beginner ML Portfolio Project
